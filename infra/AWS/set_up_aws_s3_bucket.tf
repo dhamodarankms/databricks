@@ -5,7 +5,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "DataAnalytics" {
-    bucket = "sdgdatalakesecond"
+    bucket = "sdgdatalake"
     tags = {
         name = "SDG"
         value = "databricks"
