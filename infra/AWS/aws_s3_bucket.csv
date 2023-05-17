@@ -1,0 +1,2 @@
+bucket_name	aws_region	acls_flag	public_access_flag	bucket_version_flag	tag_key	tag_value	encryption_method	encryption_bucket_key	object_lock_flag
+sdgdatalakeAuckland	ap-southeast-2	N	N	N	SDG	DataStorage	SSE-S3	Y	N
